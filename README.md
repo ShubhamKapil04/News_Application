@@ -2,7 +2,7 @@
 
 Instant is a Daily News Application that shows News in the Scrolling way
 
-#Technology Used :
+# Technology Used :
 1. Android Studio
 2. Kotlin
 3. RecyclerView
